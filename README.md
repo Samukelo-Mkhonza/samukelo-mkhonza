@@ -64,19 +64,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samukelo-Mkhonza&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samukelo-Mkhonza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samukelo-Mkhonza&theme=tokyonight" alt="GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samukelo-Mkhonza&theme=tokyonight" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=Samukelo-Mkhonza&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<!-- SECTION: trophies -->
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Samukelo-Mkhonza&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
 
 </div>
 
