@@ -6,7 +6,7 @@
 <!-- SECTION: animated header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Newsreader&weight=600&size=26&duration=3500&pause=800&color=70A5FD&center=true&vCenter=true&width=520&lines=Samukelo+Mkhonza;Cloud+Technologist;AWS+%2B+GCP;DevOps+%2F+Platform+Engineering)](https://github.com/Samukelo-Mkhonza)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=70A5FD&center=true&vCenter=true&width=520&lines=Samukelo+Mkhonza;Cloud+Technologist;AWS+%2B+GCP;DevOps+%2F+Platform+Engineering)](https://github.com/Samukelo-Mkhonza)
 
 </div>
 
